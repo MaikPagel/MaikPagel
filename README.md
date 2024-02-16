@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HPS0W36WX8YEHF467H6NA0QR
-  version: v3
----
-
 # About Me
 
 ## Name:
